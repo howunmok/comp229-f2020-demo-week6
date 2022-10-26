@@ -1,0 +1,14 @@
+/* custom css goes here */
+.container {
+    border-width: auto;
+    text-align: center;
+    align-content: center;
+    background-color: lightgray;
+    padding: 60px;
+}
+
+
+
+.navbar-text {
+    padding-left: 10px;
+}
